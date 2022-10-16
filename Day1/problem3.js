@@ -1,0 +1,10 @@
+console.log("𝐊𝐞𝐧𝐝𝐫𝐢𝐲𝐚 𝐕𝐢𝐝𝐲𝐚𝐥𝐚𝐲𝐚");
+let name="𝐑𝐚𝐡𝐮𝐥";
+console.log("𝙽𝚊𝚖𝚎 :-",name);
+console.log("𝙶𝚛𝚊𝚍𝚎 :- 𝟏𝟎");
+console.log("𝚜𝚎𝚌 :- 𝐀");
+console.log("𝚁𝚘𝚕𝚕.𝙽𝚘 :- 𝟑𝟒𝟔");
+console.log("𝐑𝐞𝐬𝐮𝐥𝐭");
+console.log("𝐌𝐚𝐭𝐡𝐞𝐦𝐚𝐭𝐢𝐜𝐬 | 𝟕𝟖");
+console.log("𝐏𝐡𝐲𝐬𝐢𝐜𝐬 | 𝟕𝟗");
+console.log("𝐂𝐡𝐞𝐦𝐢𝐬𝐭𝐫𝐲 | 𝟕𝟖");
